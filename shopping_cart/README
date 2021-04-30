@@ -1,7 +1,8 @@
 ### *** Deprecation Warning ***
 
-This project is newly created. For e-commerce functionality we recommend taking a look at [this repository](https://github.com/vishalkoushal38/python-mini-projects/tree/master/shopping%20cart)
-
+This shopping cart project is newly created and it's functionality is: shopping cart REST API (use python--django) that can handles CRUD operations for a specific user like 
+create cart, get items, add items and remove items. For e-commerce functionality I recommend have a look at[this repository]
+(https://github.com/vishalkoushal38/python-mini-projects/tree/master/shopping%20cart)
 
 
 # Shopping Cart
@@ -16,4 +17,4 @@ folder. Follow this tutorial to see how to setup payments with Braintree:
 ---
 
 Thank you!!!!!
-
+I hope you understand how to run this project on any pc and what are the requirements to run this. If not then have a look at [this repository]:
