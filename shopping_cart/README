@@ -1,7 +1,8 @@
 ### *** Deprecation Warning ***
 
-This shopping cart project is newly created and it's functionality is: shopping cart REST API (use python--django) that can handles CRUD operations for a specific user like 
-create cart, get items, add items and remove items. For e-commerce functionality I recommend have a look at[this repository]
+
+
+This shopping cart project is newly created and its functionality is shopping cart REST API (use python--Django) that can handles CRUD operations for a specific user like create cart, get items, add items and remove items. For e-commerce functionality I recommend have a look at[this repository]
 (https://github.com/vishalkoushal38/python-mini-projects/tree/master/shopping%20cart)
 
 
