@@ -193,6 +193,6 @@ SR No   | Project | Author
 98 | [PNG to ICO converter](https://github.com/Python-World/python-mini-projects/tree/master/projects/convert_png_images_to_ico_format)| [weicheansoo](https://github.com/weicheansoo)
 99 | [Find IMDB Ratings](https://github.com/Python-World/python-mini-projects/tree/master/projects/Find_imdb_rating)| [Utkarsh Bajaj](https://github.com/utkarshbajaj)
 100 | [Terminal Based Hangman Game](https://github.com/Python-World/python-mini-projects/tree/master/projects/Terminal_Based_Hangman_Game)| [neohboonyee99](https://github.com/neohboonyee99)
-101 | [Indian National Flag Creation using Python].(https://github.com/vishalkoushal38/Python-Projects-and-Learn/blob/f77f8a08f86fc7eb01735697de7825a906219704/INDIAN%20NATIONAL%20FLAG%20CREATION%20USING%20PYTHON%20TURTLE%20GRAPHICS%20MODULE./indian%20flag.py)| [Vishal](https://github.com/vishalkoushal38)
+101 | [Indian National Flag Creation using Python](https://github.com/vishalkoushal38/Python-Projects-and-Learn/blob/f77f8a08f86fc7eb01735697de7825a906219704/INDIAN%20NATIONAL%20FLAG%20CREATION%20USING%20PYTHON%20TURTLE%20GRAPHICS%20MODULE./indian%20flag.py)| [Vishal](https://github.com/vishalkoushal38)
 
 
